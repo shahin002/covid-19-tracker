@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c151862d-81c9-45ca-ae52-0abbeca7667f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aItlydKFmkQzvN7XwH0uO1GtMT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/CountryPicker" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\nodejs\React\corona-app\src\components\CountryPicker" />
+      <recent name="E:\nodejs\React\corona-app\src\components\Chart" />
+      <recent name="E:\nodejs\React\corona-app\src\components\Cards" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c151862d-81c9-45ca-ae52-0abbeca7667f" name="Default Changelist" comment="" />
+      <created>1586435091114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586435091114</updated>
+      <workItem from="1586435097659" duration="12114000" />
+      <workItem from="1586508399914" duration="6388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="896" y="167" width="607" height="536" key="find.popup" timestamp="1586509356600">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="896" y="167" width="607" height="536" key="find.popup/0.0.1600.870@0.0.1600.870" timestamp="1586509356600" />
+    <state x="863" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1586517051227">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="863" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1586517051227" />
+  </component>
+</project>
